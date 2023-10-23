@@ -1,0 +1,13 @@
+.navOption{
+    display: flex;
+    margin-left: 150px;
+}
+
+.nav_card{
+    margin-right: 50px;
+    transition: all ease-in-out 0.2s;
+}
+
+.nav_card:hover{
+    transform: scale(1.05);
+}

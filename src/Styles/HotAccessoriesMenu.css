@@ -1,0 +1,23 @@
+.hotAccessoriesMenu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 45px;
+    margin-top: 30px;
+}
+
+.hotAccessoriesMenu_link {
+    text-decoration: none;
+    color: gray;
+    padding-bottom: 5px;
+}
+
+.hotAccessoriesMenu_link:hover {
+    color: #eb101b;
+    border-bottom: 1px solid #eb101b;
+}
+
+.hotAccessoriesMenu_link:focus{
+    color: #eb101b;
+    border-bottom: 1px solid #eb101b;
+}

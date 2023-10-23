@@ -1,0 +1,40 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    color: #B0B0B0;
+    background-color: #212121;
+}
+
+.support,
+.shop,
+.retail,
+.about,
+.contact {
+    font-size: 1.03rem;
+}
+
+.support_col,
+.shop_col,
+.retail_col,
+.about_col,
+.contact_col {
+    display: flex;
+    flex-direction: column;
+    margin-right: 160px;
+}
+
+.support_col {
+    margin-left: 20px;
+}
+
+.support_col a,
+.shop_col a,
+.retail_col a,
+.about_col a,
+.contact_col a {
+    color: #B0B0B0;
+    padding-bottom: 10px;
+    font-size: 0.9rem;
+    text-decoration: none;
+}

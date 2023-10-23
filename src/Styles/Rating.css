@@ -1,0 +1,14 @@
+.rating{
+    padding: 90px 0px 0px 300px;
+}
+
+.rating_divider{
+    display: inline-block;
+    height: 50px;
+    width: 1px;
+    background-color: gray;
+    position: relative;
+    top: 22px;
+    margin: 0px 20px 0px 20px;
+    opacity: 0.5;
+}

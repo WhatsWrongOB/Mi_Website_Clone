@@ -1,0 +1,11 @@
+.slider{
+    height: 81vh;
+    width: 100vw;
+    position: relative;
+    top: 10px;
+}
+
+.slider_end{
+    margin: 35px 0px 0px 0px;
+    height: 81vh;
+}

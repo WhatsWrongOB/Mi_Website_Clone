@@ -1,0 +1,23 @@
+.heading_component {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    margin-top: 45px;
+}
+
+.heading {
+    color: #616161;
+    font-size: 2.1rem;
+    font-weight: 400;
+    padding: 0px 40px 0px 40px;
+}
+
+.line,
+.line1 {
+    height: 1px;
+    width: 400px;
+    background-color: grey;
+    opacity: 0.5;
+    position: relative;
+    top: 25px;
+}
