@@ -23,7 +23,18 @@ function App() {
 
       <PreNavbar />
       <Navbar />
-      <NavOptions miPhone={data.miPhones} redmiPhone={data.redmiPhones} tv={data.tv} laptop={data.laptop} fitness={data.fitnessAndLifeStyle} home={data.home} audio={data.audio} accessories={data.accessories} />
+      
+      <Routes>
+        <Route exact path = "/miPhone" element = {<NavOptions miPhone={data.miPhones} />}/>
+        <Route exact path = "/redmiPhone" element = {<NavOptions redmiPhone={data.redmiPhones} />}/>
+        <Route exact path = "/tv" element = {<NavOptions tv={data.miPhones} />}/>
+        <Route exact path = "/laptop" element = {<NavOptions laptop={data.laptop} />}/>
+        <Route exact path = "/fitness" element = {<NavOptions fitness={data.fitnessAndLifeStyle} />}/>
+        <Route exact path = "/homes" element = {<NavOptions home={data.home} />}/>
+        <Route exact path = "/audio" element = {<NavOptions audio={data.audio} />}/>
+        <Route exact path = "/accessories" element = {<NavOptions accessories={data.accessories} />}/>
+       </Routes>
+       
       <Slider start={data.banner.start} />
       <Offer offer={data.offer} />
       <Heading text="Star Products" />
