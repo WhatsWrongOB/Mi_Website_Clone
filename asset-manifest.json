@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Mi_Website_Clone/static/css/main.0404312d.css",
-    "main.js": "/Mi_Website_Clone/static/js/main.c978b8de.js",
+    "main.css": "/Mi_Website_Clone/static/css/main.08e96e8b.css",
+    "main.js": "/Mi_Website_Clone/static/js/main.77b311e2.js",
     "static/media/playButton.svg": "/Mi_Website_Clone/static/media/playButton.9597ecc566c68c2f7b958cf8351c3847.svg",
     "index.html": "/Mi_Website_Clone/index.html",
     "static/media/heart.svg": "/Mi_Website_Clone/static/media/heart.1c453fbdb36fe463eddc4081188db609.svg",
     "static/media/search.svg": "/Mi_Website_Clone/static/media/search.d893c2f2cca19a8af96fc587e822b033.svg",
     "static/media/contact.svg": "/Mi_Website_Clone/static/media/contact.d901377fdd0d18c7afa92e02e6507b79.svg",
     "static/media/cart.svg": "/Mi_Website_Clone/static/media/cart.d546de6fef8abd0ade7a13c1b3b29e42.svg",
-    "main.0404312d.css.map": "/Mi_Website_Clone/static/css/main.0404312d.css.map",
-    "main.c978b8de.js.map": "/Mi_Website_Clone/static/js/main.c978b8de.js.map"
+    "main.08e96e8b.css.map": "/Mi_Website_Clone/static/css/main.08e96e8b.css.map",
+    "main.77b311e2.js.map": "/Mi_Website_Clone/static/js/main.77b311e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.0404312d.css",
-    "static/js/main.c978b8de.js"
+    "static/css/main.08e96e8b.css",
+    "static/js/main.77b311e2.js"
   ]
 }
